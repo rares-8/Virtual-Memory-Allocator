@@ -39,4 +39,4 @@
     - print data about all blocks and miniblocks
 
 * MPROTECT
-    - set permissions on the miniblocks rw buffers
+    - set permissions on the miniblocks buffers
